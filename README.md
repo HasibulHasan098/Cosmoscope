@@ -40,7 +40,7 @@ Cosmoscope is an interactive web application developed for the NASA Space Apps C
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/cosmoscope.git
+   git clone https://github.com/HasibulHasan098/Cosmoscope.git
    cd cosmoscope
    ```
 
