@@ -1,0 +1,5 @@
+{
+  "name": "Cosmoscope",
+  "description": "An interactive web application to explore Earth and Mars. It features a map-based weather prediction tool for Earth using Gemini AI with grounding, and a Mars rover image gallery with AI-generated storytelling.",
+  "requestFramePermissions": []
+}
