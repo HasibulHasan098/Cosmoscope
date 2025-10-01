@@ -70,7 +70,6 @@ Cosmoscope is an interactive web application developed for the NASA Space Apps C
 - **Mars View**: Browse through the latest Mars rover photos
 - **Image Gallery**: Click on images to view full-size with detailed information
 - **AI Chat**: Ask questions about what you're seeing or request specific imagery
-- **Theme Toggle**: Switch between dark and light mode using the toggle in the header
 
 ## 🏆 NASA Space Apps Challenge
 
@@ -96,7 +95,6 @@ The Gemini-powered AI assistant in Cosmoscope offers several innovative features
 
 ### Navigation
 - Use the navigation menu at the top to switch between Earth, Mars, and About pages
-- Toggle between dark and light mode using the theme switch in the header
 
 ### Earth Exploration
 1. Navigate to the Earth page
