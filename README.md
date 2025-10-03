@@ -62,7 +62,7 @@ Cosmoscope is an interactive web application developed for the NASA Space Apps C
    npm run dev
    ```
 
-5. Open your browser and navigate to `http://localhost:5173`
+5. Open your browser and navigate to `http://localhost:3000`
 
 ## 📱 Usage
 
