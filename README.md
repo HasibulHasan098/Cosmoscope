@@ -29,6 +29,8 @@ Cosmoscope is an interactive web application developed for the NASA Space Apps C
 
 ## 🚀 Getting Started
 
+[![Setup Video](https://img.shields.io/badge/Watch-Setup%20Video-red?style=for-the-badge&logo=video)](https://github.com/HasibulHasan098/presentation/raw/refs/heads/main/presentation.mp4)
+
 ### Prerequisites
 
 - Node.js (v18 or higher)
